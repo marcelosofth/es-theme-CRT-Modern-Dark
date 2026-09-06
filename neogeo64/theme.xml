@@ -1,0 +1,26 @@
+<theme>
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="system">
+
+    <text name="sys_top" extra="true">
+      <text>SNK</text>
+    </text>
+    <text name="sys_bottom" extra="true">
+      <text>Hyper NeoGeo64</text>
+    </text>
+
+    <text name="description" extra="true">
+      <text>The Hyper Neo Geo 64 is an arcade system board created by SNK and released in 1997. Planned as a successor of the popular Neo Geo, it never managed to match its success. Only seven games were produced, none of which proved particularly popular. It was the only SNK arcade board capable of 3D rendering, conceived to bring SNK into the 3D era that had arisen during the mid-1990s.</text>
+    </text>
+    
+  </view>
+  
+  <view name="grid">
+    <text name="sys_full" extra="true">
+      <text>Hyper NeoGeo64</text>
+    </text>
+  </view>
+
+</theme>

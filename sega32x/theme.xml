@@ -1,0 +1,27 @@
+<theme>
+
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="system">
+
+    <text name="sys_top" extra="true">
+      <text>Sega</text>
+    </text>
+    <text name="sys_bottom" extra="true">
+      <text>32X</text>
+    </text>
+
+    <text name="description" extra="true">
+      <text>Designed to expand the power of the Mega Drive and serve as a transitional console into the 32-bit era until the release of the Sega Saturn.</text>
+    </text>
+    
+  </view>
+  
+  <view name="grid">
+    <text name="sys_full" extra="true">
+      <text>32x</text>
+    </text>
+  </view>
+
+</theme>

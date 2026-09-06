@@ -1,0 +1,27 @@
+<theme>
+
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="system">
+
+    <text name="sys_top" extra="true">
+      <text>SEGA/Namco/Nintendo</text>
+    </text>
+    <text name="sys_bottom" extra="true">
+      <text>Triforce</text>
+    </text>
+
+    <text name="description" extra="true">
+      <text>The Triforce is an arcade system board developed jointly by Namco, Sega, and Nintendo, with the first games appearing in 2002. The name "Triforce" is a reference to Nintendo's Legend of Zelda series of games, and symbolized the three companies' involvement in the project.</text>
+    </text>
+    
+  </view>
+  
+  <view name="grid">
+    <text name="sys_full" extra="true">
+      <text>Triforce</text>
+    </text>
+  </view>
+
+</theme>

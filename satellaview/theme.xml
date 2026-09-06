@@ -1,0 +1,27 @@
+<theme>
+
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="system">
+
+    <text name="sys_top" extra="true">
+      <text>Nintendo</text>
+    </text>
+    <text name="sys_bottom" extra="true">
+      <text>Satellaview</text>
+    </text>
+
+    <text name="description" extra="true">
+      <text>The Satellaview was a satellite modem-type deal developed by Nintendo and the satellite radio service St.GIGA that was somewhat similar in technology to the Sega Channel.</text>
+    </text>
+    
+  </view>
+  
+  <view name="grid">
+    <text name="sys_full" extra="true">
+      <text>Satellaview</text>
+    </text>
+  </view>
+
+</theme>

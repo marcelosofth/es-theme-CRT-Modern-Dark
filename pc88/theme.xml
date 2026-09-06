@@ -1,0 +1,27 @@
+<theme>
+
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="system">
+
+    <text name="sys_top" extra="true">
+      <text>NEC</text>
+    </text>
+    <text name="sys_bottom" extra="true">
+      <text>PC-8800 Series</text>
+    </text>
+
+    <text name="description" extra="true">
+      <text>The PC-8800 series sold extremely well and became one of the three major Japanese home computers of the 1980s, along with the Fujitsu FM-7 and Sharp X1.</text>
+    </text>
+    
+  </view>
+  
+  <view name="grid">
+    <text name="sys_full" extra="true">
+      <text>PC-8800 Series</text>
+    </text>
+  </view>
+
+</theme>

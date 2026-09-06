@@ -1,0 +1,27 @@
+<theme>
+
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="system">
+
+    <text name="sys_top" extra="true">
+      <text>Sega</text>
+    </text>
+    <text name="sys_bottom" extra="true">
+      <text>Pico Storyware</text>
+    </text>
+
+    <text name="description" extra="true">
+      <text>The Sega Pico, known in Japan as the Kids Computer Pico and later the Kids Communication Pico, is a video game console developed and manufactured by Sega and Sega Toys.</text>
+    </text>
+    
+  </view>
+  
+  <view name="grid">
+    <text name="sys_full" extra="true">
+      <text>Sega Pico</text>
+    </text>
+  </view>
+
+</theme>

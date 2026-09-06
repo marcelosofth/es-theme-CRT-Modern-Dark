@@ -1,0 +1,28 @@
+<theme>
+
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="system">
+
+
+    <text name="sys_top" extra="true">
+      <text>Randy Davis</text>
+    </text>
+    <text name="sys_bottom" extra="true">
+      <text>Visual Pinball X</text>
+    </text>
+
+    <text name="description" extra="true">
+      <text>Visual Pinball X is a freeware and source available video game engine for pinball tables and similar games such as pachinko machines. It can be used with Visual PinMAME, an emulator for ROM images from real pinball machines.</text>
+    </text>
+    
+  </view>
+  
+  <view name="grid">
+    <text name="sys_full" extra="true">
+      <text>Visual Pinball X</text>
+    </text>
+  </view>
+
+</theme>

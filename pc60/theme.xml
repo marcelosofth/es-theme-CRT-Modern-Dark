@@ -1,0 +1,28 @@
+<theme>
+
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="system">
+
+
+    <text name="sys_top" extra="true">
+      <text>NEC</text>
+    </text>
+    <text name="sys_bottom" extra="true">
+      <text>NEC PC-6000</text>
+    </text>
+
+    <text name="description" extra="true">
+      <text>The PC-6000 series is a series of 8-bit home computers introduced in November 1981 by NEC Home Electronics. There are several models in this series, such as the PC-6001, the PC-6001 MK2 and the PC-6001 MK2 SR.</text>
+    </text>
+    
+  </view>
+  
+  <view name="grid">
+    <text name="sys_full" extra="true">
+      <text>NEC PC-6000</text>
+    </text>
+  </view>
+
+</theme>

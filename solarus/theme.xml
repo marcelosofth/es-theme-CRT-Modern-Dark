@@ -1,0 +1,27 @@
+<theme>
+
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="system">
+
+    <text name="sys_top" extra="true">
+      <text>Quests</text>
+    </text>
+    <text name="sys_bottom" extra="true">
+      <text>Solarus</text>
+    </text>
+
+    <text name="description" extra="true">
+      <text>Solarus is a free and open-source Action-RPG 2D game engine. We also make games to showcase our engine.</text>
+    </text>
+    
+  </view>
+  
+  <view name="grid">
+    <text name="sys_full" extra="true">
+      <text>Solarus</text>
+    </text>
+  </view>
+
+</theme>

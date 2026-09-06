@@ -1,0 +1,27 @@
+<theme>
+
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="system">
+
+    <text name="sys_top" extra="true">
+      <text>Atmel</text>
+    </text>
+    <text name="sys_bottom" extra="true">
+      <text>Uzebox</text>
+    </text>
+
+    <text name="description" extra="true">
+      <text>The Uzebox is a retro-minimalist homebrew game console. It is based on an AVR 8-bit general purpose microcontroller made by Atmel.</text>
+    </text>
+    
+  </view>
+  
+  <view name="grid">
+    <text name="sys_full" extra="true">
+      <text>Uzebox</text>
+    </text>
+  </view>
+
+</theme>

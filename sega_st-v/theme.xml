@@ -1,0 +1,27 @@
+<theme>
+
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="system">
+
+    <text name="sys_top" extra="true">
+      <text>Sega</text>
+    </text>
+    <text name="sys_bottom" extra="true">
+      <text>Sega ST-V</text>
+    </text>
+
+    <text name="description" extra="true">
+      <text>ST-V (Sega Titan Video) is an arcade system board released by Sega, in 1994 for Japan and 1995 worldwide. Departing from their usual process of building custom arcade hardware, Sega's ST-V is essentially identical to the Sega Saturn home console system.</text>
+    </text>
+    
+  </view>
+  
+  <view name="grid">
+    <text name="sys_full" extra="true">
+      <text>Sega ST-V</text>
+    </text>
+  </view>
+
+</theme>

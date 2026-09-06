@@ -1,0 +1,27 @@
+<theme>
+
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="system">
+
+    <text name="sys_top" extra="true">
+      <text>MGT</text>
+    </text>
+    <text name="sys_bottom" extra="true">
+      <text>SAM Coupé</text>
+    </text>
+
+    <text name="description" extra="true">
+      <text>The SAM Coupé is an 8-bit British home computer manufactured by Miles Gordon Technology, based in Swansea in the United Kingdom and released in December 1989.</text>
+    </text>
+    
+  </view>
+  
+  <view name="grid">
+    <text name="sys_full" extra="true">
+      <text>SAM Coupé</text>
+    </text>
+  </view>
+
+</theme>

@@ -1,0 +1,27 @@
+<theme>
+
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="system">
+
+    <text name="sys_top" extra="true">
+      <text>Nesbox</text>
+    </text>
+    <text name="sys_bottom" extra="true">
+      <text>TIC-80</text>
+    </text>
+
+    <text name="description" extra="true">
+      <text>TIC-80 is a free and open-source fantasy video game console for making, playing, and sharing games on a limited platform that mimics the 8-bit systems of the 1980s.</text>
+    </text>
+    
+  </view>
+  
+  <view name="grid">
+    <text name="sys_full" extra="true">
+      <text>TIC-80</text>
+    </text>
+  </view>
+
+</theme>

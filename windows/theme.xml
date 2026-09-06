@@ -1,0 +1,26 @@
+<theme>
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="system">
+
+    <text name="sys_top" extra="true">
+      <text>Microsoft</text>
+    </text>
+    <text name="sys_bottom" extra="true">
+      <text>Windows</text>
+    </text>
+
+    <text name="description" extra="true">
+      <text>Windows is a group of several proprietary graphical operating system families developed and marketed by Microsot.</text>
+    </text>
+    
+  </view>
+  
+  <view name="grid">
+    <text name="sys_full" extra="true">
+      <text>Windows</text>
+    </text>
+  </view>
+
+</theme>

@@ -1,0 +1,27 @@
+<theme>
+
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="system">
+
+    <text name="sys_top" extra="true">
+      <text>MO/TO</text>
+    </text>
+    <text name="sys_bottom" extra="true">
+      <text>Thomson</text>
+    </text>
+
+    <text name="description" extra="true">
+      <text>The Thomson MO/TO is a home computer introduced in France in June 1984, At the same time, Thomson also released the up-market Thomson TO7/70 machine.</text>
+    </text>
+    
+  </view>
+  
+  <view name="grid">
+    <text name="sys_full" extra="true">
+      <text>Thomson MO/TO</text>
+    </text>
+  </view>
+
+</theme>

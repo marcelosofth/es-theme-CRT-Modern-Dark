@@ -1,0 +1,28 @@
+<theme>
+
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="system">
+
+
+    <text name="sys_top" extra="true">
+      <text>SNK</text>
+    </text>
+    <text name="sys_bottom" extra="true">
+      <text>Neo-Geo CD</text>
+    </text>
+
+    <text name="description" extra="true">
+      <text>The Neo-Geo CD is the second home video game console of SNK Corporation's Neo-Geo family, released on September 9, 1994, four years after its cartridge-based equivalent.</text>
+    </text>
+    
+  </view>
+  
+  <view name="grid">
+    <text name="sys_full" extra="true">
+      <text>Neo-Geo CD</text>
+    </text>
+  </view>
+
+</theme>

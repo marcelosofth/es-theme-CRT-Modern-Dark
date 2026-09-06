@@ -1,0 +1,27 @@
+<theme>
+
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="system">
+
+    <text name="sys_top" extra="true">
+      <text>SpecNext</text>
+    </text>
+    <text name="sys_bottom" extra="true">
+      <text>ZX Spectrum NEXT</text>
+    </text>
+
+    <text name="description" extra="true">
+      <text>The ZX Spectrum Next has enhanced features, initially released in 2017, compatible with the software and hardware of the 1982 ZX Spectrum.</text>
+    </text>
+    
+  </view>
+  
+  <view name="grid">
+    <text name="sys_full" extra="true">
+      <text>ZX Spectrum NEXT</text>
+    </text>
+  </view>
+
+</theme>

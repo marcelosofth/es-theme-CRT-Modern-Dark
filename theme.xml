@@ -1,0 +1,14 @@
+<theme>
+  <formatVersion>7</formatVersion>
+
+  <include>./views/menu.xml</include>
+  
+  <view name="grid"></view>
+  <include>./views/detailed.xml</include>
+  <include>./views/system.xml</include>
+  <include>./views/grid3.xml</include>
+
+  <customView name="detailed" inherits="grid">
+  </customView>
+
+</theme>

@@ -1,0 +1,27 @@
+<theme>
+
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="system">
+
+    <text name="sys_top" extra="true">
+      <text>Philips</text>
+    </text>
+    <text name="sys_bottom" extra="true">
+      <text>Odyssey</text>
+    </text>
+
+    <text name="description" extra="true">
+      <text>The Magnavox Odyssey 2, also known as Philips Odyssey, is a second generation home video game console that was released in 1978.</text>
+    </text>
+    
+  </view>
+  
+  <view name="grid">
+    <text name="sys_full" extra="true">
+      <text>Odyssey</text>
+    </text>
+  </view>
+
+</theme>

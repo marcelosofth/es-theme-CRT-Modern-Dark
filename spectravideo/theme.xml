@@ -1,0 +1,27 @@
+<theme>
+
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="system">
+
+    <text name="sys_top" extra="true">
+      <text>SVI</text>
+    </text>
+    <text name="sys_bottom" extra="true">
+      <text>Spectravideo</text>
+    </text>
+
+    <text name="description" extra="true">
+      <text>Spectravideo was a brand of home computers and peripherals that gained popularity in the early 1980s. The company initially started as a manufacturer of video game consoles and accessories before transitioning to producing home computers.</text>
+    </text>
+    
+  </view>
+  
+  <view name="grid">
+    <text name="sys_full" extra="true">
+      <text>Spectravideo</text>
+    </text>
+  </view>
+
+</theme>

@@ -1,0 +1,28 @@
+<theme>
+
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="system">
+
+
+    <text name="sys_top" extra="true">
+      <text>Namco</text>
+    </text>
+    <text name="sys_bottom" extra="true">
+      <text>Namco System 22</text>
+    </text>
+
+    <text name="description" extra="true">
+      <text>The Namco System 22 is the successor to the Namco System 21 arcade system board. It debuted in 1992 with Sim Drive in Japan, followed by a worldwide debut in 1993 with Ridge Racer.</text>
+    </text>
+    
+  </view>
+  
+  <view name="grid">
+    <text name="sys_full" extra="true">
+      <text>Namco System 22</text>
+    </text>
+  </view>
+
+</theme>

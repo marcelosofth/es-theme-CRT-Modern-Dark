@@ -1,0 +1,27 @@
+<theme>
+
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="system">
+
+    <text name="sys_top" extra="true">
+      <text>IGS</text>
+    </text>
+    <text name="sys_bottom" extra="true">
+      <text>PGM</text>
+    </text>
+
+    <text name="description" extra="true">
+      <text>The IGS PolyGame Master is an arcade system released by IGS in 1997. It features many video games, the most notable of which are the titles from the Knights of Valour series.</text>
+    </text>
+    
+  </view>
+  
+  <view name="grid">
+    <text name="sys_full" extra="true">
+      <text>IGS PolyGame Master</text>
+    </text>
+  </view>
+
+</theme>

@@ -1,0 +1,27 @@
+<theme>
+
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="system">
+
+    <text name="sys_top" extra="true">
+      <text>Lexaloffle</text>
+    </text>
+    <text name="sys_bottom" extra="true">
+      <text>PICO-8</text>
+    </text>
+
+    <text name="description" extra="true">
+      <text>PICO-8 is a virtual machine and game engine created by Lexaloffle Games. It is a fantasy video game console that mimics the limited graphical and sound capabilities of 8-bit systems of the 1980s.</text>
+    </text>
+    
+  </view>
+  
+  <view name="grid">
+    <text name="sys_full" extra="true">
+      <text>PICO-8</text>
+    </text>
+  </view>
+
+</theme>

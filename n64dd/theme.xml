@@ -1,0 +1,27 @@
+<theme>
+
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="system">
+
+    <text name="sys_top" extra="true">
+      <text>Nintendo</text>
+    </text>
+    <text name="sys_bottom" extra="true">
+      <text>Nintendo 64DD</text>
+    </text>
+
+    <text name="description" extra="true">
+      <text>The Nintendo 64 Disk Drive is a magnetic floppy disk drive peripheral for the Nintendo 64 game console developed by Nintendo. It was announced in 1995 and launch 1996.</text>
+    </text>
+    
+  </view>
+  
+  <view name="grid">
+    <text name="sys_full" extra="true">
+      <text>Nintendo 64DD</text>
+    </text>
+  </view>
+
+</theme>

@@ -1,0 +1,27 @@
+<theme>
+
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="system">
+
+    <text name="sys_top" extra="true">
+      <text>ASCII/Microsoft</text>
+    </text>
+    <text name="sys_bottom" extra="true">
+      <text>MSX turbo R</text>
+    </text>
+
+    <text name="description" extra="true">
+      <text>Here is the last MSX computer ever made. It is the successor of the MSX 2+ and thus has many characteristics in common. New features include: a new PCM sound chip which can produce digitized sound up to 44 KHz and a new Z80 downward compatible R800 processor. </text>
+    </text>
+    
+  </view>
+  
+  <view name="grid">
+    <text name="sys_full" extra="true">
+      <text>MSX turbo R</text>
+    </text>
+  </view>
+
+</theme>

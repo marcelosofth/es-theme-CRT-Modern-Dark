@@ -1,0 +1,27 @@
+<theme>
+
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="system">
+
+    <text name="sys_top" extra="true">
+      <text>ASCII/Microsoft</text>
+    </text>
+    <text name="sys_bottom" extra="true">
+      <text>MSX 2</text>
+    </text>
+
+    <text name="description" extra="true">
+      <text>After the (relative) success of the MSX 1 computer, Microsoft and ASCII presented its successor. The main new feature was the very enhanced graphic modes, no other computers were able to display such graphics!</text>
+    </text>
+    
+  </view>
+  
+  <view name="grid">
+    <text name="sys_full" extra="true">
+      <text>MSX 2</text>
+    </text>
+  </view>
+
+</theme>

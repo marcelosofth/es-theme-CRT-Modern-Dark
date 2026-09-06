@@ -1,0 +1,27 @@
+<theme>
+
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="system">
+
+    <text name="sys_top" extra="true">
+      <text>Video System</text>
+    </text>
+    <text name="sys_bottom" extra="true">
+      <text>Psikyo</text>
+    </text>
+
+    <text name="description" extra="true">
+      <text>Psikyo was a Japanese video game developer and publisher known for its shoot 'em ups. It was founded in 1992 by former Video System staff who worked on the Aero Fighters series.</text>
+    </text>
+    
+  </view>
+  
+  <view name="grid">
+    <text name="sys_full" extra="true">
+      <text>Psikyo</text>
+    </text>
+  </view>
+
+</theme>

@@ -1,0 +1,27 @@
+<theme>
+
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="system">
+
+    <text name="sys_top" extra="true">
+      <text>Teknogods Team</text>
+    </text>
+    <text name="sys_bottom" extra="true">
+      <text>TeknoParrot</text>
+    </text>
+
+    <text name="description" extra="true">
+      <text>TeknoParrot is a software package allowing you to run selected PC-based arcade titles on your own hardware, with full support for keyboard and mouse controls, gamepads, steering wheels and joysticks.</text>
+    </text>
+    
+  </view>
+  
+  <view name="grid">
+    <text name="sys_full" extra="true">
+      <text>TeknoParrot</text>
+    </text>
+  </view>
+
+</theme>

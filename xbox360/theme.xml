@@ -1,0 +1,27 @@
+<theme>
+
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="system">
+
+    <text name="sys_top" extra="true">
+      <text>Microsoft</text>
+    </text>
+    <text name="sys_bottom" extra="true">
+      <text>Xbox 360</text>
+    </text>
+
+    <text name="description" extra="true">
+      <text>The Xbox 360 features an online service, Xbox Live, which was expanded from its previous iteration on the original Xbox and received regular updates during the console's lifetime.</text>
+    </text>
+    
+  </view>
+  
+  <view name="grid">
+    <text name="sys_full" extra="true">
+      <text>Xbox 360</text>
+    </text>
+  </view>
+
+</theme>

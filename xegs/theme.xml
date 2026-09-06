@@ -1,0 +1,27 @@
+<theme>
+
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="system">
+
+    <text name="sys_top" extra="true">
+      <text>Atari</text>
+    </text>
+    <text name="sys_bottom" extra="true">
+      <text>Atari XE/GS</text>
+    </text>
+
+    <text name="description" extra="true">
+      <text>The Atari XE Video Game System (Atari XEGS) is an industrial redesign of the Atari 65XE home computer and the final model in the Atari 8-bit family.</text>
+    </text>
+    
+  </view>
+  
+  <view name="grid">
+    <text name="sys_full" extra="true">
+      <text>Atari XEGS</text>
+    </text>
+  </view>
+
+</theme>

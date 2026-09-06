@@ -1,0 +1,27 @@
+<theme>
+
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="system">
+
+    <text name="sys_top" extra="true">
+      <text>Sega</text>
+    </text>
+    <text name="sys_bottom" extra="true">
+      <text>SC-3000</text>
+    </text>
+
+    <text name="description" extra="true">
+      <text>SC-3000 was a home computer manufactured by Sega equivalent to the SG-1000 video game.</text>
+    </text>
+    
+  </view>
+  
+  <view name="grid">
+    <text name="sys_full" extra="true">
+      <text>SC-3000</text>
+    </text>
+  </view>
+
+</theme>

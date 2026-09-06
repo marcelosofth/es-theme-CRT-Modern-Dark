@@ -1,0 +1,27 @@
+<theme>
+
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="system">
+
+    <text name="sys_top" extra="true">
+      <text>TO8</text>
+    </text>
+    <text name="sys_bottom" extra="true">
+      <text>Thomson TO8</text>
+    </text>
+
+    <text name="description" extra="true">
+      <text>The Thomson TO8 is a home computer introduced by French company Thomson SA in 1986, with a cost of 2,990. It replaces its predecessor, the Thomson TO7/70, while remaining essentially compatible.</text>
+    </text>
+    
+  </view>
+  
+  <view name="grid">
+    <text name="sys_full" extra="true">
+      <text>Thomson TO8</text>
+    </text>
+  </view>
+
+</theme>

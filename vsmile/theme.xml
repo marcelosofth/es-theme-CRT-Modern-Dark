@@ -1,0 +1,27 @@
+<theme>
+
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="system">
+
+    <text name="sys_top" extra="true">
+      <text>VTech</text>
+    </text>
+    <text name="sys_bottom" extra="true">
+      <text>V.Smile</text>
+    </text>
+
+    <text name="description" extra="true">
+      <text>The V.Smile (stylized as V.SMILE TV LEARNING SYSTEM) is a sixth-generation educational home video game console manufactured and released by VTech.</text>
+    </text>
+    
+  </view>
+  
+  <view name="grid">
+    <text name="sys_full" extra="true">
+      <text>V.Smile</text>
+    </text>
+  </view>
+
+</theme>

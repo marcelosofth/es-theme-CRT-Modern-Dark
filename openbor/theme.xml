@@ -1,0 +1,27 @@
+<theme>
+
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="system">
+
+    <text name="sys_top" extra="true">
+      <text>Beats of Rage</text>
+    </text>
+    <text name="sys_bottom" extra="true">
+      <text>OpenBor</text>
+    </text>
+
+    <text name="description" extra="true">
+      <text>OpenBOR is a free and open-source side scrolling game engine. There are hundreds of fangames of popular franchies created for OpenBOR.</text>
+    </text>
+    
+  </view>
+  
+  <view name="grid">
+    <text name="sys_full" extra="true">
+      <text>Open Beats of Rage</text>
+    </text>
+  </view>
+
+</theme>

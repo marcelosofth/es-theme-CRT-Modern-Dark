@@ -1,0 +1,27 @@
+<theme>
+
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="system">
+
+    <text name="sys_top" extra="true">
+      <text>Sega</text>
+    </text>
+    <text name="sys_bottom" extra="true">
+      <text>Naomi 2</text>
+    </text>
+
+    <text name="description" extra="true">
+      <text>In 2000, Sega presented the NAOMI 2 arcade board at the JAMMA fair, as a successor to the Sega NAOMI system, based on Sega Dreamcast technology.</text>
+    </text>
+    
+  </view>
+  
+  <view name="grid">
+    <text name="sys_full" extra="true">
+      <text>Naomi 2</text>
+    </text>
+  </view>
+
+</theme>

@@ -1,0 +1,27 @@
+<theme>
+
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="system">
+
+    <text name="sys_top" extra="true">
+      <text>Epoch Co.</text>
+    </text>
+    <text name="sys_bottom" extra="true">
+      <text>S. Cassette Vision</text>
+    </text>
+
+    <text name="description" extra="true">
+      <text>Epoch's original Cassette Vision was introduced in Japan by Epoch in 1981, which had steady sales and took over 70% of the Japanese home console market at the time.</text>
+    </text>
+    
+  </view>
+  
+  <view name="grid">
+    <text name="sys_full" extra="true">
+      <text>Super Cassette Vision</text>
+    </text>
+  </view>
+
+</theme>

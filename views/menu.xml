@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<theme>
+  <formatVersion>7</formatVersion>
+  <view name="menu">
+    <menuText name="menutitle">
+      <fontPath>./../_assets/fonts/Acre.otf</fontPath>
+      <fontSize>0.044</fontSize>
+      <color>cac8c9</color>
+    </menuText>
+    <menuText name="menufooter">
+      <fontPath>./../_assets/fonts/Acre.otf</fontPath>
+      <fontSize>0.02</fontSize>
+      <color>302e2f</color>
+    </menuText>
+    
+    <menuText name="menutext">
+      <fontPath>./../_assets/fonts/Acre.otf</fontPath>
+      <fontSize>0.031</fontSize>
+      <color>c8c7c7</color>
+      <separatorColor>343434</separatorColor>
+      <selectorColor>c8c7c7</selectorColor>
+      <selectorColorEnd>c8c7c7</selectorColorEnd>
+      <selectedColor>121011</selectedColor>
+      <selectorGradientType>horizontal</selectorGradientType>
+    </menuText>
+
+    <!--Making the scraper text the same-->
+    <menuTextSmall name="menutextsmall">
+      <fontPath>./../_assets/fonts/Acre.otf</fontPath>
+      <fontSize>0.0320</fontSize>
+      <color>cac8c9</color>
+    </menuTextSmall>
+
+    <menuBackground name="menubg">
+      <cornerSize>32 32</cornerSize>
+      <color>191919E6</color>
+    </menuBackground>
+
+    <menuIcons name="menuicons">
+      <iconKodi>./../_assets/menuIcons/kodi.png</iconKodi>
+      <iconSystem>./../_assets/menuIcons/system.png</iconSystem>
+      <iconUpdates>./../_assets/menuIcons/updates.png</iconUpdates>
+      <iconGames>./../_assets/menuIcons/games.png</iconGames>
+      <iconControllers>./../_assets/menuIcons/controllers.png</iconControllers>
+      <iconUI>./../_assets/menuIcons/ui.png</iconUI>
+      <iconSound>./../_assets/menuIcons/sound.png</iconSound>
+      <iconNetwork>./../_assets/menuIcons/network.png</iconNetwork>
+      <iconScraper>./../_assets/menuIcons/scraper.png</iconScraper>
+      <iconAdvanced>./../_assets/menuIcons/advanced.png</iconAdvanced>
+      <iconQuit>./../_assets/menuIcons/quit.png</iconQuit>
+      <iconRestart>./../_assets/menuIcons/restart.png</iconRestart>
+      <iconShutdown>./../_assets/menuIcons/shutdown.png</iconShutdown>
+      <iconFastShutdown>./../_assets/menuIcons/fastshutdown.png</iconFastShutdown>
+      <iconRetroachievements>./../_assets/menuIcons/contest.png</iconRetroachievements>
+      <iconManual>./../_assets/menuIcons/manual.png</iconManual>
+    </menuIcons>
+    
+  </view>
+</theme>

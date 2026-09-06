@@ -1,0 +1,27 @@
+<theme>
+
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="system">
+
+    <text name="sys_top" extra="true">
+      <text>Sony</text>
+    </text>
+    <text name="sys_bottom" extra="true">
+      <text>Playstation 4</text>
+    </text>
+
+    <text name="description" extra="true">
+      <text>The PlayStation 4 (PS4) is a home video game console developed by Sony Interactive Entertainment. Announced as the successor to the PlayStation 3 in February 2013.</text>
+    </text>
+    
+  </view>
+  
+  <view name="grid">
+    <text name="sys_full" extra="true">
+      <text>Playstation 4</text>
+    </text>
+  </view>
+
+</theme>

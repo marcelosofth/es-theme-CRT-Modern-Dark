@@ -1,0 +1,27 @@
+<theme>
+
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="system">
+
+    <text name="sys_top" extra="true">
+      <text>Sega</text>
+    </text>
+    <text name="sys_bottom" extra="true">
+      <text>Naomi</text>
+    </text>
+
+    <text name="description" extra="true">
+      <text>A development of the Dreamcast home game console, the NAOMI and Dreamcast share the same hardware components.</text>
+    </text>
+    
+  </view>
+  
+  <view name="grid">
+    <text name="sys_full" extra="true">
+      <text>Naomi</text>
+    </text>
+  </view>
+
+</theme>

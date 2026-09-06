@@ -1,0 +1,27 @@
+<theme>
+
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="system">
+
+    <text name="sys_top" extra="true">
+      <text>Setup</text>
+    </text>
+    <text name="sys_bottom" extra="true">
+      <text>Settings</text>
+    </text>
+
+    <text name="description" extra="true">
+      <text>In games it is also very common to find this type of configuration, you can change certain aspects of the games to make it better for you to play.</text>
+    </text>
+    
+  </view>
+  
+  <view name="grid">
+    <text name="sys_full" extra="true">
+      <text>Setup</text>
+    </text>
+  </view>
+
+</theme>

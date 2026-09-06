@@ -1,0 +1,27 @@
+<theme>
+
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="system">
+
+    <text name="sys_top" extra="true">
+      <text>Bandai</text>
+    </text>
+    <text name="sys_bottom" extra="true">
+      <text>WonderSwanColor</text>
+    </text>
+
+    <text name="description" extra="true">
+      <text>The WonderSwan Color was followed by the active matrix SwanCrystal, Though well-received, the WonderSwan line was unable to fend off competition from Nintendo's Game Boy Advance.</text>
+    </text>
+    
+  </view>
+  
+  <view name="grid">
+    <text name="sys_full" extra="true">
+      <text>WonderSwan Color</text>
+    </text>
+  </view>
+
+</theme>

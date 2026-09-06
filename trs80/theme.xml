@@ -1,0 +1,27 @@
+<theme>
+
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="system">
+
+    <text name="sys_top" extra="true">
+      <text>Tandy</text>
+    </text>
+    <text name="sys_bottom" extra="true">
+      <text>Radio Shack TRS80</text>
+    </text>
+
+    <text name="description" extra="true">
+      <text>Tandy Corporation released several computer product lines starting in 1977, under both TRS-80 and Tandy branding, TRS-80 was a brand associated with several desktop microcomputer lines sold by Tandy Corporation through their Radio Shack stores.</text>
+    </text>
+    
+  </view>
+  
+  <view name="grid">
+    <text name="sys_full" extra="true">
+      <text>Radio Shack TRS-80</text>
+    </text>
+  </view>
+
+</theme>
