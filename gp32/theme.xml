@@ -1,0 +1,27 @@
+<theme>
+
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="system">
+
+    <text name="sys_top" extra="true">
+      <text>Game Park</text>
+    </text>
+    <text name="sys_bottom" extra="true">
+      <text>GP32</text>
+    </text>
+
+    <text name="description" extra="true">
+      <text>The GP32 is a handheld game console developed by the South Korean company Game Park.</text>
+    </text>
+    
+  </view>
+  
+  <view name="grid">
+    <text name="sys_full" extra="true">
+      <text>GP32</text>
+    </text>
+  </view>
+
+</theme>

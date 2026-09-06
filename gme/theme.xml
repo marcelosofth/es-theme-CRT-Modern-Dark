@@ -1,0 +1,27 @@
+<theme>
+
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="system">
+
+    <text name="sys_top" extra="true">
+      <text>Shay Green</text>
+    </text>
+    <text name="sys_bottom" extra="true">
+      <text>Game Music Emu</text>
+    </text>
+
+    <text name="description" extra="true">
+      <text>Game Music Emulators is a collection of audio emulators for assorted video game console hardware. It was originally developed by Blargg and used as the basis for several other software products before being converted into a library.</text>
+    </text>
+    
+  </view>
+  
+  <view name="grid">
+    <text name="sys_full" extra="true">
+      <text>Game Music Emu</text>
+    </text>
+  </view>
+
+</theme>

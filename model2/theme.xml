@@ -1,0 +1,27 @@
+<theme>
+
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="system">
+
+    <text name="sys_top" extra="true">
+      <text>Sega</text>
+    </text>
+    <text name="sys_bottom" extra="true">
+      <text>Sega Model 2</text>
+    </text>
+
+    <text name="description" extra="true">
+      <text>Sega Model 2 is an arcade board released by Sega in 1993. Like the Model 1, it was developed in cooperation with Martin Marietta, and was essentially a continuation of the Model 1.</text>
+    </text>
+    
+  </view>
+  
+  <view name="grid">
+    <text name="sys_full" extra="true">
+      <text>Sega Model 2</text>
+    </text>
+  </view>
+
+</theme>

@@ -1,0 +1,27 @@
+<theme>
+
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="system">
+
+    <text name="sys_top" extra="true">
+      <text>Acorn</text>
+    </text>
+    <text name="sys_bottom" extra="true">
+      <text>BBC Micro</text>
+    </text>
+
+    <text name="description" extra="true">
+      <text>The BBC Microcomputer System or BBC Micro, is a family of microcomputers developed and manufactured by Acorn Computers in the early 1980s as part of the BBC's Computer Literacy Project.</text>
+    </text>
+    
+  </view>
+  
+  <view name="grid">
+    <text name="sys_full" extra="true">
+      <text>BBC Micro</text>
+    </text>
+  </view>
+
+</theme>

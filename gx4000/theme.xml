@@ -1,0 +1,27 @@
+<theme>
+
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="system">
+
+    <text name="sys_top" extra="true">
+      <text>Amstrad</text>
+    </text>
+    <text name="sys_bottom" extra="true">
+      <text>Amstrad GX4000</text>
+    </text>
+
+    <text name="description" extra="true">
+      <text>The GX4000 is a video game console that was manufactured by Amstrad. It was the company's short-lived attempt to enter the games console market.</text>
+    </text>
+    
+  </view>
+  
+  <view name="grid">
+    <text name="sys_full" extra="true">
+      <text>Amstrad GX4000</text>
+    </text>
+  </view>
+
+</theme>

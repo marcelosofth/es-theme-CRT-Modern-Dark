@@ -1,0 +1,27 @@
+<theme>
+
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="system">
+
+    <text name="sys_top" extra="true">
+      <text>Fujitsu</text>
+    </text>
+    <text name="sys_bottom" extra="true">
+      <text>Fujitsu Micro 7</text>
+    </text>
+
+    <text name="description" extra="true">
+      <text>The FM-7 ("Fujitsu Micro 7") is a home computer created by Fujitsu, it is a stripped-down version of Fujitsu's earlier FM-8 computer, and during development it was referred to as the "FM-8 Jr.".</text>
+    </text>
+    
+  </view>
+  
+  <view name="grid">
+    <text name="sys_full" extra="true">
+      <text>Fujitsu Micro 7</text>
+    </text>
+  </view>
+
+</theme>

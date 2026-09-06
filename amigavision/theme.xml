@@ -1,0 +1,26 @@
+<theme>
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="system">
+
+    <text name="sys_top" extra="true">
+      <text>Commodore+</text>
+    </text>
+    <text name="sys_bottom" extra="true">
+      <text>Amigavision</text>
+    </text>
+
+    <text name="description" extra="true">
+      <text>The ultimate Amiga games & demo scene collection for MiSTer & Pocket FPGAs, Raspberry Pi + emulators and Amiga 1200, 4000 & CD32.</text>
+    </text>
+    
+  </view>
+  
+  <view name="grid">
+    <text name="sys_full" extra="true">
+      <text>Amigavision</text>
+    </text>
+  </view>
+
+</theme>

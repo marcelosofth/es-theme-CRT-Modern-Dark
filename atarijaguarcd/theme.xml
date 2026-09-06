@@ -1,0 +1,27 @@
+<theme>
+
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="system">
+
+    <text name="sys_top" extra="true">
+      <text>Atari</text>
+    </text>
+    <text name="sys_bottom" extra="true">
+      <text>Jaguar CD</text>
+    </text>
+
+    <text name="description" extra="true">
+      <text>The Atari Jaguar CD is a CD-ROM peripheral for the Jaguar video game console. Only 13 games were released for the Jaguar CD during its lifetime. However, previously unfinished and homebrew games have since been released.</text>
+    </text>
+    
+  </view>
+  
+  <view name="grid">
+    <text name="sys_full" extra="true">
+      <text>Jaguar CD</text>
+    </text>
+  </view>
+
+</theme>

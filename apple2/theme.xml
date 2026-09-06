@@ -1,0 +1,26 @@
+<theme>
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="system">
+
+    <text name="sys_top" extra="true">
+      <text>Apple</text>
+    </text>
+    <text name="sys_bottom" extra="true">
+      <text>Apple II</text>
+    </text>
+
+    <text name="description" extra="true">
+      <text>One of the first highly successful mass-produced microcomputer products, designed primarily by Steve Wozniak.</text>
+    </text>
+    
+  </view>
+  
+  <view name="grid">
+    <text name="sys_full" extra="true">
+      <text>Apple II</text>
+    </text>
+  </view>
+
+</theme>

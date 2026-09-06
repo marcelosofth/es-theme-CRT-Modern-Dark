@@ -1,0 +1,27 @@
+<theme>
+
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="system">
+
+    <text name="sys_top" extra="true">
+      <text>3dSen PC/VR</text>
+    </text>
+    <text name="sys_bottom" extra="true">
+      <text>Nintendo 3D</text>
+    </text>
+
+    <text name="description" extra="true">
+      <text>3dSen was created by Geod Studio and is the only emulator that transforms classic 2D NES games into stunning 3D voxel experiences. Relive your favorite retro titles like never before!</text>
+    </text>
+    
+  </view>
+  
+  <view name="grid">
+    <text name="sys_full" extra="true">
+      <text>Nintendo 3D</text>
+    </text>
+  </view>
+
+</theme>

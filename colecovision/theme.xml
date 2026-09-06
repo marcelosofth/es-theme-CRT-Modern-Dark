@@ -1,0 +1,27 @@
+<theme>
+
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="system">
+
+    <text name="sys_top" extra="true">
+      <text>Coleco</text>
+    </text>
+    <text name="sys_bottom" extra="true">
+      <text>ColecoVision</text>
+    </text>
+
+    <text name="description" extra="true">
+      <text>The ColecoVision offered a closer experience to more powerful arcade game systems compared to competitors such as the Atari 2600.</text>
+    </text>
+    
+  </view>
+  
+  <view name="grid">
+    <text name="sys_full" extra="true">
+      <text>ColecoVision</text>
+    </text>
+  </view>
+
+</theme>

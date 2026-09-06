@@ -1,0 +1,27 @@
+<theme>
+
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="system">
+
+    <text name="sys_top" extra="true">
+      <text>Commodore</text>
+    </text>
+    <text name="sys_bottom" extra="true">
+      <text>CPlus/4</text>
+    </text>
+
+    <text name="description" extra="true">
+      <text>Commodore International announced the Commodore Plus/4 in January 1984 as the Commodore 264. It was a more powerful sequel to the highly successful Commodore 64.</text>
+    </text>
+    
+  </view>
+  
+  <view name="grid">
+    <text name="sys_full" extra="true">
+      <text>Commodore Plus/4</text>
+    </text>
+  </view>
+
+</theme>

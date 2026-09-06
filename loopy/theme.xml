@@ -1,0 +1,26 @@
+<theme>
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="system">
+
+    <text name="sys_top" extra="true">
+      <text>Casio</text>
+    </text>
+    <text name="sys_bottom" extra="true">
+      <text>Casio Loopy</text>
+    </text>
+
+    <text name="description" extra="true">
+      <text>The Casio Loopy, subtitled My Seal Computer SV-100, is a 32-bit home video game console. Released exclusively in Japan in October 1995 with a price of 25,000¥, the marketing for it was completely targeted to female gamers.</text>
+    </text>
+    
+  </view>
+  
+  <view name="grid">
+    <text name="sys_full" extra="true">
+      <text>Casio Loopy</text>
+    </text>
+  </view>
+
+</theme>

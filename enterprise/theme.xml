@@ -1,0 +1,27 @@
+<theme>
+
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="system">
+
+    <text name="sys_top" extra="true">
+      <text>Intelligent Software</text>
+    </text>
+    <text name="sys_bottom" extra="true">
+      <text>Enterprise</text>
+    </text>
+
+    <text name="description" extra="true">
+      <text>The Enterprise is a Zilog Z80-based home computer announced in 1983, Its two variants are the Enterprise 64, with 64 KB of RAM, and the Enterprise 128, with 128 KB of RAM.</text>
+    </text>
+    
+  </view>
+  
+  <view name="grid">
+    <text name="sys_full" extra="true">
+      <text>Enterprise</text>
+    </text>
+  </view>
+
+</theme>

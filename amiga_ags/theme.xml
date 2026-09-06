@@ -1,0 +1,26 @@
+<theme>
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="system">
+
+    <text name="sys_top" extra="true">
+      <text>Retro32</text>
+    </text>
+    <text name="sys_bottom" extra="true">
+      <text>Amiga AGS</text>
+    </text>
+
+    <text name="description" extra="true">
+      <text>The Amiga Game Selector is not a single official product but rather a popular third-party system for accessing and playing Amiga games on various platforms, including modern hardware like the Raspberry Pi, Amiga Mini consoles, and original Amiga computers.</text>
+    </text>
+    
+  </view>
+  
+  <view name="grid">
+    <text name="sys_full" extra="true">
+      <text>Amiga AGS</text>
+    </text>
+  </view>
+
+</theme>

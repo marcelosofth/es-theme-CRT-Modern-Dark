@@ -1,0 +1,27 @@
+<theme>
+
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="system">
+
+    <text name="sys_top" extra="true">
+      <text>Sega</text>
+    </text>
+    <text name="sys_bottom" extra="true">
+      <text>Sega Model 3</text>
+    </text>
+
+    <text name="description" extra="true">
+      <text>The Sega Model 3 is an arcade platform produced by Sega. It is a successor to the Sega Model 2 platform, and was released in 1996.</text>
+    </text>
+    
+  </view>
+  
+  <view name="grid">
+    <text name="sys_full" extra="true">
+      <text>Sega Model 3</text>
+    </text>
+  </view>
+
+</theme>

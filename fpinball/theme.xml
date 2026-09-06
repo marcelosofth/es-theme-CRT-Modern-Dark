@@ -1,0 +1,28 @@
+<theme>
+
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="system">
+
+
+    <text name="sys_top" extra="true">
+      <text>BSP Software</text>
+    </text>
+    <text name="sys_bottom" extra="true">
+      <text>Future Pinball</text>
+    </text>
+
+    <text name="description" extra="true">
+      <text>Future Pinball is a real time Pinball Development System. It allows you to design and play your very own pinball simulation in True real time 3D. It uses Advanced Physics to provide the best possible Simulation of a true to life pinball machine.</text>
+    </text>
+    
+  </view>
+  
+  <view name="grid">
+    <text name="sys_full" extra="true">
+      <text>Future Pinball</text>
+    </text>
+  </view>
+
+</theme>

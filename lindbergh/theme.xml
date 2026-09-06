@@ -1,0 +1,27 @@
+<theme>
+
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="system">
+
+    <text name="sys_top" extra="true">
+      <text>Sega</text>
+    </text>
+    <text name="sys_bottom" extra="true">
+      <text>Lindbergh</text>
+    </text>
+
+    <text name="description" extra="true">
+      <text>Lindbergh is an arcade system board developed and used by Sega for a variety of high-end arcade releases in the mid-to-late 2000's.</text>
+    </text>
+    
+  </view>
+  
+  <view name="grid">
+    <text name="sys_full" extra="true">
+      <text>Lindbergh</text>
+    </text>
+  </view>
+
+</theme>

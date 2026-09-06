@@ -1,0 +1,27 @@
+<theme>
+
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="system">
+
+    <text name="sys_top" extra="true">
+      <text>Atari</text>
+    </text>
+    <text name="sys_bottom" extra="true">
+      <text>Jaguar</text>
+    </text>
+
+    <text name="description" extra="true">
+      <text>Sixth and last programmable console to be developed under the Atari brand, Atari marketed the Jaguar as being the first 64-bit video game console.</text>
+    </text>
+    
+  </view>
+  
+  <view name="grid">
+    <text name="sys_full" extra="true">
+      <text>Jaguar</text>
+    </text>
+  </view>
+
+</theme>

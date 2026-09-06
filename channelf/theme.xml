@@ -1,0 +1,27 @@
+<theme>
+
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="system">
+
+    <text name="sys_top" extra="true">
+      <text>Fairchild</text>
+    </text>
+    <text name="sys_bottom" extra="true">
+      <text>Channel F</text>
+    </text>
+
+    <text name="description" extra="true">
+      <text>The Fairchild Channel F, was the first video game console based on a microprocessor, and to use ROM cartridges instead of having games built-in.</text>
+    </text>
+    
+  </view>
+  
+  <view name="grid">
+    <text name="sys_full" extra="true">
+      <text>Fairchild Channel F</text>
+    </text>
+  </view>
+
+</theme>

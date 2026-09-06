@@ -1,0 +1,26 @@
+<theme>
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="system">
+
+    <text name="sys_top" extra="true">
+      <text>Sega</text>
+    </text>
+    <text name="sys_bottom" extra="true">
+      <text>Sega Hikaru</text>
+    </text>
+
+    <text name="description" extra="true">
+      <text>Hikaru is an original CG board that was released in 1999 as one of Sega 's arcade system boards, and is an extension of the original MODEL series.</text>
+    </text>
+    
+  </view>
+  
+  <view name="grid">
+    <text name="sys_full" extra="true">
+      <text>Sega Hikaru</text>
+    </text>
+  </view>
+
+</theme>

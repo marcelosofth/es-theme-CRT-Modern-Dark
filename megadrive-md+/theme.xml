@@ -1,0 +1,27 @@
+<theme>
+
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="system">
+
+    <text name="sys_top" extra="true">
+      <text>Sega</text>
+    </text>
+    <text name="sys_bottom" extra="true">
+      <text>Mega Drive MD+</text>
+    </text>
+
+    <text name="description" extra="true">
+      <text>MD+ is a retro gaming enhancement standard that adds CD-quality audio tracks to Sega Mega Drive / Genesis ROM hacks.</text>
+    </text>
+    
+  </view>
+  
+  <view name="grid">
+    <text name="sys_full" extra="true">
+      <text>Mega Drive MD+</text>
+    </text>
+  </view>
+
+</theme>

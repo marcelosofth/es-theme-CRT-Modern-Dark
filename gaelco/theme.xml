@@ -1,0 +1,26 @@
+<theme>
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="system">
+
+    <text name="sys_top" extra="true">
+      <text>Gaelco</text>
+    </text>
+    <text name="sys_bottom" extra="true">
+      <text>Gaelco, S.A</text>
+    </text>
+
+    <text name="description" extra="true">
+      <text>Gaelco, S.A., is a Spanish company that develops and publishes arcade games and video games. As of 2007, Gaelco develops electronic dart machines under the name of "Gaelco Darts".</text>
+    </text>
+    
+  </view>
+  
+  <view name="grid">
+    <text name="sys_full" extra="true">
+      <text>Gaelco</text>
+    </text>
+  </view>
+
+</theme>

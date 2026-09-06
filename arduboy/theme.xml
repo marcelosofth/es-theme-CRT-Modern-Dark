@@ -1,0 +1,27 @@
+<theme>
+
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="system">
+
+    <text name="sys_top" extra="true">
+      <text>Kevin Bates</text>
+    </text>
+    <text name="sys_bottom" extra="true">
+      <text>Arduboy</text>
+    </text>
+
+    <text name="description" extra="true">
+      <text>The Arduboy is a handheld game console with open source software, based on the Arduino hardware platform.</text>
+    </text>
+    
+  </view>
+  
+  <view name="grid">
+    <text name="sys_full" extra="true">
+      <text>Arduboy</text>
+    </text>
+  </view>
+
+</theme>

@@ -1,0 +1,27 @@
+<theme>
+
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="system">
+
+    <text name="sys_top" extra="true">
+      <text>Philips</text>
+    </text>
+    <text name="sys_bottom" extra="true">
+      <text>Compact Disc-I</text>
+    </text>
+
+    <text name="description" extra="true">
+      <text>The Compact Disc-Interactive (CD-i) is a digital optical disc data storage format that was mostly developed and marketed by Dutch company Philips.</text>
+    </text>
+    
+  </view>
+  
+  <view name="grid">
+    <text name="sys_full" extra="true">
+      <text>Compact Disc-I</text>
+    </text>
+  </view>
+
+</theme>

@@ -1,0 +1,27 @@
+<theme>
+
+  <formatVersion>7</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="system">
+
+    <text name="sys_top" extra="true">
+      <text>Acorn</text>
+    </text>
+    <text name="sys_bottom" extra="true">
+      <text>Archimedes</text>
+    </text>
+
+    <text name="description" extra="true">
+      <text>The systems are based on Acorn's own ARM architecture processors and the proprietary operating systems Arthur and RISC OS.</text>
+    </text>
+    
+  </view>
+  
+  <view name="grid">
+    <text name="sys_full" extra="true">
+      <text>Archimedes</text>
+    </text>
+  </view>
+
+</theme>
