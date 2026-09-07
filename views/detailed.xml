@@ -208,7 +208,7 @@
     <textlist name="gamelist">
         <selectorColor>1c1c1c</selectorColor>
         <selectedColor>F8F8F8</selectedColor>
-        <selectorHeight>0.05</selectorHeight>
+        <selectorHeight>0.043</selectorHeight>
         <primaryColor>585858</primaryColor>
         <secondaryColor>888888</secondaryColor>
         <fontPath>./../_assets/fonts/Acre.otf</fontPath>
