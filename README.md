@@ -5,9 +5,13 @@ CRT-Modern-Dark supports the major systems used in Batocera, including new ones 
 ![Interface do Arcade](screenshots/Arcade_1.png)
 ![Interface do Arcade](screenshots/Arcade_2.png)
 
-Compatibility: ✅ Runs on batocera Stable (current version: 43.1).
 ![Interface do Arcade](screenshots/Atari_1.png)
 ![Interface do Arcade](screenshots/Atari_2.png)
+
+![Interface do Arcade](screenshots/Switch_1.png)
+![Interface do Arcade](screenshots/Switch_2.png)
+
+Compatibility: ✅ Runs on batocera Stable (current version: 43.1).
 
 CRT-Modern-Dark THeme is Emulationstation Theme for Batocera, RetroBat, EmuELEC.
 
