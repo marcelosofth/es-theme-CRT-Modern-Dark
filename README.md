@@ -1,6 +1,6 @@
 CRT-Modern-Dark is the perfect theme if you’re tired of visual clutter and color schemes that look like a kids' party arcade cabinet. Try something minimalist, sophisticated, and pleasing—both in terms of navigation and its sleek dark aesthetic—that reflects impeccable taste.
 
-CRT-Modern-Dark supports the major systems used in Batocera, including new ones that lack official support elsewhere—such as Nintendo Switch, Game Music Emulator, Nes3D, Mega Drive MD+, ZX Spectrum NEXT, AmigaVision, Teknoparrot, and more.
+CRT-Modern-Dark supports the major systems used in Batocera, including new ones that lack official support elsewhere—such as Nintendo Switch, Game Music Emulator, Nes3D, Mega Drive MD+, ZX Spectrum NEXT, AmigaVision, Teknoparrot, and more ^_^
 
 ![Interface do Arcade](screenshots/Arcade_1.png)
 ![Interface do Arcade](screenshots/Arcade_2.png)
