@@ -15,7 +15,8 @@ Compatibility: ✅ Runs on batocera Stable (current version: 43.1).
 
 CRT-Modern-Dark THeme is Emulationstation Theme for Batocera, RetroBat, EmuELEC.
 
-<iframe width="600" height="350" src="https://youtu.be/9YlNHIVrakc" frameborder="0" allowfullscreen></iframe>
+
+Veja o tema em ação: [Assista ao vídeo de demonstração no YouTube](https://youtu.be/9YlNHIVrakc)
 
 
 * **Download 1:** [Baixar via Google Drive](https://drive.google.com/file/d/1R8N5fOC-mFXDQ29FUqajc_3tXcO3PvEX/view?usp=drive_link)
