@@ -22,14 +22,28 @@ THeme by MTN
 
 ## Licence
 
-Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
-https://creativecommons.org
+## Licence
 
-[![CC BY-NC-SA 4.0]([https://githubusercontent.com](https://creativecommons.org/licenses/by-nc-sa/4.0/))]
-(https://creativecommons.org)
-https://camo.githubusercontent.com/e2dbcd52272b06a1b6bcc16d741e60613c51df229e281efe87d508f640a6ff2d/68747470733a2f2f692e6372656174697665636f6d6d6f6e732e6f72672f6c2f62792d6e632d73612f342e302f38387833312e706e67
+Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) https://creativecommons.org
+
+<a href="https://creativecommons.org"><img src="https://creativecommons.org" alt="CC BY-NC-SA 4.0" /></a>
 
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License
+
+You are free to:
+
+* **Share:** copy and redistribute the material in any medium or format
+* **Adapt:** remix, transform, and build upon the material
+
+Under the following terms:
+
+**Attribution:** You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+
+**NonCommercial:** You may not use the material for commercial purposes.
+
+**ShareAlike:** If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+
+No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
 You are free to:
 
