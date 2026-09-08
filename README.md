@@ -25,7 +25,7 @@ THeme by MTN
 Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
 https://creativecommons.org
 
-[![CC BY-NC-SA 4.0](https://creativecommons.org)](https://creativecommons.org)
+[![CC BY-NC-SA 4.0](https://githubusercontent.com)](https://creativecommons.org)
 
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License
 
