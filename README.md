@@ -19,14 +19,11 @@ CRT-Modern-Dark THeme is Emulationstation Theme for Batocera, RetroBat, EmuELEC.
 * **Download 2:** [Baixar Tema (.ZIP)](https://github.com/marcelosofth/es-theme-CRT-Modern-Dark/archive/refs/heads/main.zip)
 
 THeme by MTN
-
-## Licence
-
 ## Licence
 
 Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) https://creativecommons.org
 
-<a href="https://creativecommons.org"><img src="https://creativecommons.org" alt="CC BY-NC-SA 4.0" /></a>
+[![CC BY-NC-SA 4.0](https://shields.io)](https://creativecommons.org)
 
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License
 
